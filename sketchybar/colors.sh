@@ -1,0 +1,27 @@
+#!/bin/bash
+export rosewater=0xfff5e0dc
+export flamingo=0xfff2cdcd
+export pink=0xfff5c2e7
+export mauve=0xffcba6f7
+export red=0xfff38ba8
+export maroon=0xffeba0ac
+export peach=0xfffab387
+export yellow=0xfff9e2af
+export green=0xffa6e3a1
+export teal=0xff94e2d5
+export sky=0xff89dceb
+export sapphire=0xff74c7ec
+export blue=0xff89b4fa
+export lavender=0xffb4befe
+export text=0xffcdd6f4
+export subtext1=0xffbac2de
+export subtext0=0xffa6adc8
+export overlay2=0xff9399b2
+export overlay1=0xff7f849c
+export overlay0=0xff6c7086
+export surface2=0xff585b70
+export surface1=0xff45475a
+export surface0=0xff313244
+export base=0xff1e1e2e
+export mantle=0xff181825
+export crust=0xff11111b
