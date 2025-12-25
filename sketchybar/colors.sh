@@ -25,3 +25,4 @@ export surface0=0xff313244
 export base=0xff1e1e2e
 export mantle=0xff181825
 export crust=0xff11111b
+export transparent=0x00000000

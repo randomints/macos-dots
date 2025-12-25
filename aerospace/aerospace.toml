@@ -156,7 +156,7 @@ alt-shift-semicolon = 'mode service'
 alt-shift-enter = 'mode apps'
 
 alt-f = 'exec-and-forget open -a /Applications/Firefox.app'
-alt-enter = 'exec-and-forget osascript -e "tell application \"iTerm\" to create window with default profile"'
+alt-enter = 'exec-and-forget open -na kitty'
 
 alt-shift-s = 'exec-and-forget screencapture -i -c'
 
