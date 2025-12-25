@@ -8,3 +8,10 @@ Terminal: iTerm 2
 Browser: Firefox with catpuccin mocha using the firefox color extension
 
 ## Screenshots
+![safari](safari.png)
+
+![zathura](zathura.png)
+
+![music](music.png)
+
+![minecraft](minecraft-near.png)
